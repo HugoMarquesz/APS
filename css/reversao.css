@@ -1,0 +1,59 @@
+.menu{
+    padding-top: vh;
+    padding-bottom: vh;
+    background: #7159c1;
+    width: 100%;
+    font-size: 15pt;
+    float: left
+}
+.menu img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 3vh;
+    margin-left: 2vh;
+    
+}
+.nav-link:hover{
+    color: black;
+    border-color: white;
+    background-color: white;
+    border-radius: 1vh;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Quicksand';
+}
+.logoInstagram:hover{
+    background: #833ab4;  /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    border-radius: 2vh;
+}
+.logoInstagram img{
+    padding-left: 1vh;
+}
+
+.imagecard{
+    width: 70vw;
+    height: 60vh;
+    margin-bottom: 3vh;
+    margin-top: 3vh;
+    margin-left: 20vw;
+}
+h1 {
+    user-select: none;
+    font-family:'Quicksand', sans-serif;
+    font-size: 50pt;
+    text-align: center;
+    color: black;
+}
+
+p {
+    user-select: none;
+    font-family:'Quicksand', sans-serif;
+    font-size: 18pt;
+    text-align: center;
+    color: black;
+}

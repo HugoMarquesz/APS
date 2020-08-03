@@ -1,0 +1,130 @@
+.Titulo  {
+    text-align: center;
+
+}
+.bodyclass {
+    background-color: white;
+}
+
+
+    
+
+
+
+.container{
+    width: 100%;
+    height: 50%;
+    float: left;
+
+background-color: white;
+
+
+}
+.container2{
+    margin-top: 2vh;
+    width: 100%;
+    height: 50%;
+    float: left;
+
+}
+.cardstyle1{
+    float: left;
+    height: 45%;
+    width: 45%;
+    margin: 2px 2px;
+    margin-left: 4.5vw;
+    
+}
+.cardstyle2{
+    float: left;
+    height: 45%;
+    width: 45%;
+    margin: 2px 2px;
+
+}
+.cardstyle3{
+    float: left;
+    height: 45%;
+    width: 45%;
+    margin: 2px 2px;
+    margin-left: 4.5vw;
+}
+.cardstyle4{
+    float: left;
+    height: 45%;
+    width: 45%;
+    margin: 2px 2px;
+}
+
+.cardstyle {
+    height: 50%;
+    width: 50%;
+    float: left;
+}
+.card-body {
+    background-color: white;
+    color: black;
+    width: 100%;
+    height: 100%;
+    
+}
+
+.cardstyle1 img {
+    width:80%;
+    align-self: center;
+    background-color: red;
+
+
+}
+.cardstyle2 img {
+    width:80%;
+    align-self: center;
+
+
+}
+.cardstyle3 img {
+    width:80%;
+    align-self: center;
+    background-color: red;
+
+}
+.cardstyle4 img {
+    width:80%;
+    align-self: center;
+    background-color: red;
+
+}
+
+.menu{
+    padding-top: vh;
+    padding-bottom: vh;
+    background: #7159c1;
+    width: 100%;
+    font-size: 15pt;
+    float: left
+}
+.menu img{
+    width: 50px;
+    height: 50px;
+    float: left;
+    margin-right: 3vh;
+    margin-left: 2vh;
+    
+}
+.nav-link:hover{
+    color: black;
+    border-color: white;
+    background-color: white;
+    border-radius: 1vh;
+}
+.menu a{
+    text-decoration: none;
+    color: white;
+    font-family: 'Quicksand';
+}
+
+h1 {
+    text-align: center;
+}
+
+
